@@ -1,7 +1,7 @@
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
 import ArticleGrid from '@/components/ArticleGrid';
-import { FaInstagram, FaYoutube, FaTiktok } from 'react-icons/fa';
+import { FaInstagram, FaYoutube, FaTiktok, FaWhatsapp } from 'react-icons/fa';
 
 import { getSortedPostsData } from '@/lib/posts';
 
@@ -40,8 +40,29 @@ export default async function Home() {
           </div>
           <div>
             <h4 style={{ fontWeight: 600, marginBottom: '1rem' }}>Contacto</h4>
-            <p style={{ color: 'var(--text-secondary)' }}>+56 9 8247 2765</p>
-            <p style={{ color: 'var(--text-secondary)' }}>contacto@cuencalagoranco.cl</p>
+            <a
+              href="https://wa.me/56982472765"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: '0.5rem',
+                backgroundColor: '#25D366',
+                color: 'white',
+                padding: '0.5rem 1rem',
+                borderRadius: '99px',
+                textDecoration: 'none',
+                fontWeight: 600,
+                marginTop: '0.5rem',
+                marginBottom: '0.5rem',
+                fontSize: '0.9rem',
+                transition: 'transform 0.2s ease',
+              }}
+            >
+              <FaWhatsapp size={20} />
+              +56 9 8247 2765
+            </a>
             <div style={{ marginTop: '1rem', display: 'flex', gap: '1rem' }}>
               <a href="https://www.instagram.com/invierteencampo/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-secondary)', fontSize: '1.5rem' }}><FaInstagram /></a>
               <a href="https://www.tiktok.com/@invierteencampo" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-secondary)', fontSize: '1.5rem' }}><FaTiktok /></a>
