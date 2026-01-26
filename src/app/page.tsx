@@ -61,7 +61,7 @@ export default async function Home() {
               }}
             >
               <FaWhatsapp size={20} />
-              +56 9 8247 2765
+              Contáctame
             </a>
             <div style={{ marginTop: '1rem', display: 'flex', gap: '1rem' }}>
               <a href="https://www.instagram.com/invierteencampo/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-secondary)', fontSize: '1.5rem' }}><FaInstagram /></a>
