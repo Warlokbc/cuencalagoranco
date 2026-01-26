@@ -1,0 +1,2 @@
+# Netlify Redirects
+# Basic fallback for clean URLs is handled automatically by Next.js export structure (folder/index.html or page.html)
