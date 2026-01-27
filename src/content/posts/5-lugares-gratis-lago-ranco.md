@@ -7,7 +7,7 @@ image: '/img/DSC05193.webp'
 youtubeId: 'Pxpbjsu9EtA'
 ---
 
-¿Pensando en visitar la **Cuenca del Lago Ranco** y no sabes por dónde empezar? A menudo, los mejores tesoros de la región no cuestan ni un peso. En esta guía completa, te llevo de la mano a recorrer **5 destinos totalmente gratuitos** que te conectarán con la esencia más pura del sur de Chile.
+¿Estás pensando en venir a la **Cuenca del Lago Ranco** y no tienes idea por dónde partir? Pasa mucho. Pero te digo algo: los mejores tesoros de acá no cuestan ni un peso. En esta guía, te llevo conmigo a recorrer **5 destinos totalmente gratis** que te van a volar la cabeza.
 
 Esta ruta está diseñada para que puedas disfrutar de la naturaleza, la historia y la tranquilidad que solo Ranco puede ofrecer. ¡Prepara tu mate y vamos a la aventura!
 
@@ -58,7 +58,7 @@ Cerramos con broche de oro en **La Pisada del Diablo**. Un sendero de trekking d
 *   **El Sendero**: Camina bajo la sombra (70% del trayecto es protegido por árboles) hasta llegar a la famosa piedra con la marca legendaria.
 *   **Para la Familia**: Cuenta con excelentes zonas de picnic y juegos de madera para que los niños disfruten mientras los adultos relajan.
 
-### Mis consejos finales (Stefano)
+### Un par de consejos antes de irme (Stefano)
 
 1.  **Cuida el Entorno**: Estos lugares son gratuitos y es tarea de todos mantenerlos así. **Llévate tu basura**. Si vas a hacer picnic, deja el lugar más limpio de lo que lo encontraste.
 2.  **Planifica**: Aunque son de fácil acceso, en temporada alta (como noviembre-febrero) es mejor ir temprano para encontrar los mejores sitios.

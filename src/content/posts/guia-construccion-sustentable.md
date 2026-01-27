@@ -9,7 +9,7 @@ youtubeIdBottom: 'sj1kJRl5gxY'
 
 Decidir construir en la **Cuenca del Lago Ranco** es tomar la decisión de convivir con la naturaleza en su estado más puro. Lluvia, sol, frío y calor; el clima aquí es dinámico y la casa debe ser un refugio capaz de "respirar" y adaptarse, no una caja hermética que luche contra el entorno.
 
-Hoy quiero compartirte una perspectiva fascinante sobre la **bioconstrucción**, una técnica que recupera saberes ancestrales y los mejora con ingeniería moderna.
+Hoy quiero contarte algo que me cambió la forma de ver las casas sureñas: la **bioconstrucción**. Suena complejo, pero es volver a lo básico, mezclado con ingeniería de punta.
 
 ## ¿Por qué Bioconstrucción en el Sur?
 
@@ -43,7 +43,7 @@ Es importante notar que no toda construcción sirve en todos lados.
 
 Antes de pensar en paneles solares, piensa en el **diseño**. Una casa bien orientada al norte aprovechará el sol bajo del invierno para calentarse gratis, y con los aleros correctos, se protegerá del sol alto del verano.
 
-Construir sustentable no es una moda, es volver al sentido común. Es crear un hogar que cuide de ti y del paisaje que elegiste para vivir.
+Construir sustentable no es una moda "jipi", es puro sentido común. Es armar un hogar que te cuide a ti y, de paso, respete el paisaje increíble que elegiste.
 
 ---
 
