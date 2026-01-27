@@ -7,13 +7,13 @@ image: '/img/DSC08669-HDR.webp'
 youtubeIdBottom: 'sj1kJRl5gxY'
 ---
 
-Decidir construir en la **Cuenca del Lago Ranco** es tomar la decisión de convivir con la naturaleza en su estado más puro. Lluvia, sol, frío y calor; el clima aquí es dinámico y nuestra casa debe ser un refugio capaz de "respirar" y adaptarse, no una caja hermética que luche contra el entorno.
+Decidir construir en la **Cuenca del Lago Ranco** es tomar la decisión de convivir con la naturaleza en su estado más puro. Lluvia, sol, frío y calor; el clima aquí es dinámico y la casa debe ser un refugio capaz de "respirar" y adaptarse, no una caja hermética que luche contra el entorno.
 
-Hoy quiero compartirles una perspectiva fascinante sobre la **bioconstrucción**, una técnica que recupera saberes ancestrales y los mejora con ingeniería moderna.
+Hoy quiero compartirte una perspectiva fascinante sobre la **bioconstrucción**, una técnica que recupera saberes ancestrales y los mejora con ingeniería moderna.
 
 ## ¿Por qué Bioconstrucción en el Sur?
 
-Más allá de la estética, se trata de **eficiencia y salud**. En nuestra zona (desde el Maule hasta Los Lagos), la técnica reina es la estructura de **madera** rellena o revestida con **barro**.
+Más allá de la estética, se trata de **eficiencia y salud**. En esta zona (desde el Maule hasta Los Lagos), la técnica reina es la estructura de **madera** rellena o revestida con **barro**.
 
 ### 1. La Fusión Perfecta: Madera y Barro
 
@@ -28,7 +28,7 @@ El barro funciona como una "batería de calor". Absorbe la temperatura de la est
 ### 3. Una Casa Sana
 
 Los materiales naturales regulan la humedad interior de forma automática.
-*   Si hay mucha humedad (típico de nuestros inviernos), el barro la absorbe.
+*   Si hay mucha humedad (típico de los inviernos sureños), el barro la absorbe.
 *   Si el ambiente está seco, la libera.
 Esto previene la formación de moho y crea un ambiente hipoalergénico, ideal para evitar enfermedades respiratorias que son comunes en casas de materiales sintéticos o mal ventiladas.
 
@@ -37,7 +37,7 @@ Esto previene la formación de moho y crea un ambiente hipoalergénico, ideal pa
 Es importante notar que no toda construcción sirve en todos lados.
 *   **Norte**: Predomina el adobe puro por la oscilación térmica extrema.
 *   **Extremo Sur**: La humedad y falta de arcilla obligan a usar más madera y aislarla muy bien (ej. lana de oveja).
-*   **Nuestra Zona (Ranco)**: Estamos en el "punto dulce" donde la mezcla de madera y barro funciona mejor, aprovechando la disponibilidad local de ambos materiales.
+*   **Zona Ranco**: Estamos en el "punto dulce" donde la mezcla de madera y barro funciona mejor, aprovechando la disponibilidad local de ambos materiales.
 
 ### Diseño Pasivo: La Clave del Ahorro
 

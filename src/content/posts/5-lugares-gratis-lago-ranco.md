@@ -7,13 +7,13 @@ image: '/img/DSC05193.webp'
 youtubeId: 'Pxpbjsu9EtA'
 ---
 
-¿Pensando en visitar la **Cuenca del Lago Ranco** y no sabes por dónde empezar? A menudo, los mejores tesoros de nuestra región no cuestan ni un peso. En esta guía completa, te llevo de la mano a recorrer **5 destinos totalmente gratuitos** que te conectarán con la esencia más pura del sur de Chile.
+¿Pensando en visitar la **Cuenca del Lago Ranco** y no sabes por dónde empezar? A menudo, los mejores tesoros de la región no cuestan ni un peso. En esta guía completa, te llevo de la mano a recorrer **5 destinos totalmente gratuitos** que te conectarán con la esencia más pura del sur de Chile.
 
 Esta ruta está diseñada para que puedas disfrutar de la naturaleza, la historia y la tranquilidad que solo Ranco puede ofrecer. ¡Prepara tu mate y vamos a la aventura!
 
 ## 1. Puerto Lapi: Donde Nace el Río Bueno
 
-Nuestra primera parada es **Puerto Lapi**, un rincón estratégico y de belleza escénica incomparable. Aquí es donde el majestuoso Lago Ranco da origen al **Río Bueno**.
+La primera parada es **Puerto Lapi**, un rincón estratégico y de belleza escénica incomparable. Aquí es donde el majestuoso Lago Ranco da origen al **Río Bueno**.
 
 *   **¿Qué encontrarás?**: Una vista privilegiada del nacimiento del río, perfecta para los amantes de la fotografía y la pesca recreativa.
 *   **Ideal para**: Un picnic tranquilo. Hay zonas habilitadas entre pequeños bosques que ofrecen la sombra perfecta para descansar y disfrutar del sonido del agua.
@@ -29,7 +29,7 @@ Imagina conducir o caminar atravesando un verdadero **túnel verde** formado por
 
 ### Segunda Parte de la Ruta: Cascadas y Leyendas
 
-Si pensabas que eso era todo, prepárate. La aventura continúa con tres destinos más que completan nuestro Top 5. Mira la **Parte 2** de nuestro recorrido aquí:
+Si pensabas que eso era todo, prepárate. La aventura continúa con tres destinos más que completan este Top 5. Mira la **Parte 2** del recorrido aquí:
 
 <div class="video-wrapper">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/O-E6wUy_GGc" title="Parte 2: Lugares Gratis en Lago Ranco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

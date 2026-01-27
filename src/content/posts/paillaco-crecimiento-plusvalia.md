@@ -46,7 +46,7 @@ La **plusvalía aquí es funcional**. No compras solo "descanso", compras **cone
 
 ## Conclusión: La Ventana de Entrada
 
-El mercado inmobiliario de Paillaco está en lo que llamamos **"Fase de Pre-Boom"**. 
+El mercado inmobiliario de Paillaco está en lo que llamo **"Fase de Pre-Boom"**. 
 La infraestructura ya se pagó y se está ejecutando. Los servicios básicos se están modernizando. Pero los precios del suelo aún no reflejan completamente esta nueva realidad.
 
 **La Tesis de Inversión**: Comprar en Paillaco hoy es apostar a la "comuna emergente" con los fundamentales más sólidos de la región. Mientras otros pagan el precio "premium" del lago, los inversionistas estratégicos capturan el valor del crecimiento real en el hub de servicios.
