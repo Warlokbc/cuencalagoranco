@@ -8,9 +8,9 @@ image: '/img/futrono-premium.png'
 
 Si Paillaco es la "apuesta estratégica" por sus fundamentales logísticos, **Futrono** es la consolidación del estatus, el placer y, ahora más que nunca, la plusvalía de alto estándar.
 
-Nuestra firma ha analizado los movimientos de capital y obra pública de los últimos 24 meses en la comuna. La conclusión es clara: Futrono está transicionando de "pueblo de verano" a **"Enclave Premium Todo el Año"**.
+He analizado personalmente los movimientos de capital y obra pública de los últimos 24 meses en la comuna. La conclusión es clara: Futrono está transicionando de "pueblo de verano" a **"Enclave Premium Todo el Año"**.
 
-Aquí te explicamos por qué los grandes patrimonios están refugiando capital en esta ribera del Ranco.
+Aquí te explico por qué los grandes patrimonios están refugiando capital en esta ribera del Ranco.
 
 ## 1. El Efecto "Bahía Coique": El Game-Changer Inmobiliario
 
@@ -47,4 +47,4 @@ Ya no se trata solo de venir en febrero. Se trata de tener un **"Activo de Resgu
 A diferencia de zonas emergentes donde "esperas que llegue el desarrollo", en Futrono **el desarrollo ya llegó**. 
 La inversión aquí es de menor riesgo y de preservación de capital. Es para quien busca **seguridad, disfrute inmediato y una curva de valor ascendente** asegurada por inversiones millonarias tangibles.
 
-*¿Buscas terrenos en la zona de influencia de estas nuevas inversiones? Tenemos el catastro actualizado.*
+*¿Buscas terrenos en la zona de influencia de estas nuevas inversiones? Tengo el catastro actualizado.*

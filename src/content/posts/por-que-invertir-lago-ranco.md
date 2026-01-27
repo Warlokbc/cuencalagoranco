@@ -8,7 +8,7 @@ image: '/img/DSC02274.webp'
 
 Si estás leyendo esto, probablemente ya intuyes que el sur de Chile no es solo un destino de vacaciones, sino una bóveda de patrimonio a largo plazo. Pero, **¿por qué Lago Ranco y por qué ahora en 2026?**
 
-Dejemos de lado el romanticismo del bosque por un momento y hablemos de números, infraestructura y tendencias de mercado reales. Hemos recopilado datos de prensa financiera, informes de vialidad y el pulso social de las comunidades digitales para entregarte este análisis objetivo.
+Dejemos de lado el romanticismo del bosque por un momento y hablemos de números, infraestructura y tendencias de mercado reales. He recopilado datos de prensa financiera, informes de vialidad y el pulso social de las comunidades digitales para entregarte este análisis objetivo.
 
 ## 1. El "Efecto Ancla": La Inversión de US$40 Millones
 
