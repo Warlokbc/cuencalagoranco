@@ -8,7 +8,7 @@ image: '/img/DSC02274.webp'
 
 Si estás leyendo esto, probablemente ya intuyes que el sur de Chile no es solo un destino de vacaciones, sino una bóveda de patrimonio a largo plazo. Pero, **¿por qué Lago Ranco y por qué ahora en 2026?**
 
-Dejemos de lado el romanticismo del bosque por un momento y hablemos de números, infraestructura y tendencias de mercado reales. He recopilado datos de prensa financiera, informes de vialidad y el pulso social de las comunidades digitales para entregarte este análisis objetivo.
+Voy a dejar de lado el romanticismo del bosque por un momento para hablarte de números, infraestructura y tendencias de mercado reales. He recopilado datos directos de prensa financiera, informes de vialidad y el pulso social de las comunidades digitales para compartirte este análisis objetivo.
 
 ## 1. El "Efecto Ancla": La Inversión de US$40 Millones
 
@@ -43,7 +43,7 @@ Esto transforma el turismo de "mochilero de paso" a un turismo familiar de mayor
 
 El 2026 no es el año para "especular" con terrenos baratos en la punta del cerro sin papeles. Es el año para invertir en **suelo consolidado** o en vías de consolidación por las grandes obras públicas en curso.
 
-La ecuación es simple:
+Para mí, la ecuación es simple:
 **Inversión Privada (Coique)** + **Inversión Pública (Rutas)** + **Escasez de Agua en el Norte** = **Plusvalía Sostenida en Ranco**.
 
 ¿Listo para buscar tu lugar?

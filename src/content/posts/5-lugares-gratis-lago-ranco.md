@@ -58,7 +58,7 @@ Cerramos con broche de oro en **La Pisada del Diablo**. Un sendero de trekking d
 *   **El Sendero**: Camina bajo la sombra (70% del trayecto es protegido por árboles) hasta llegar a la famosa piedra con la marca legendaria.
 *   **Para la Familia**: Cuenta con excelentes zonas de picnic y juegos de madera para que los niños disfruten mientras los adultos relajan.
 
-### Consejos Finales de Stefano Agostinelli
+### Mis consejos finales (Stefano)
 
 1.  **Cuida el Entorno**: Estos lugares son gratuitos y es tarea de todos mantenerlos así. **Llévate tu basura**. Si vas a hacer picnic, deja el lugar más limpio de lo que lo encontraste.
 2.  **Planifica**: Aunque son de fácil acceso, en temporada alta (como noviembre-febrero) es mejor ir temprano para encontrar los mejores sitios.
