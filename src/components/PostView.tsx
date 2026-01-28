@@ -1,11 +1,23 @@
 'use client';
 import Link from 'next/link';
+import { useEffect } from 'react';
 import { FaInstagram, FaYoutube, FaTiktok } from 'react-icons/fa';
 import Image from 'next/image';
 import Header from '@/components/Header';
 import { PostData } from '@/lib/posts';
 
 export default function PostView({ postData }: { postData: PostData }) {
+  useEffect(() => {
+    const links = document.querySelectorAll('.post-content a');
+    links.forEach(link => {
+      const href = link.getAttribute('href');
+      if (href && (href.startsWith('http://') || href.startsWith('https://'))) {
+        link.setAttribute('target', '_blank');
+        link.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
+  }, [postData]);
+
   return (
     <main>
       <Header />

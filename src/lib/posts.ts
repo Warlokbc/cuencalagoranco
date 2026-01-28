@@ -70,9 +70,6 @@ export async function getPostData(slug: string): Promise<PostData> {
         .process(matterResult.content);
     let contentHtml = processedContent.toString();
 
-    // Manually force external links to open in new tab
-    contentHtml = contentHtml.replace(/<a href="(https?:\/\/[^"]+)"/g, '<a target="_blank" rel="noopener noreferrer" href="$1"');
-
     return {
         slug,
         contentHtml,
