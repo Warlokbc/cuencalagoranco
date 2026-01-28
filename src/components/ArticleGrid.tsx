@@ -13,7 +13,13 @@ export interface ArticleData {
   categoryColor?: string;
 }
 
-export default function ArticleGrid({ posts }: { posts: ArticleData[] }) {
+interface ArticleGridProps {
+  posts: ArticleData[];
+  title?: string;
+  showFilters?: boolean;
+}
+
+export default function ArticleGrid({ posts, title = 'Últimos Artículos', showFilters = true }: ArticleGridProps) {
   const getCategoryColor = (category: string) => {
     switch (category) {
       case 'Inversión': return 'blue';
@@ -26,14 +32,16 @@ export default function ArticleGrid({ posts }: { posts: ArticleData[] }) {
   return (
     <section className="container">
       <div className="section-header">
-        <h2 className="section-title">Últimos Artículos</h2>
-        <div className="filters">
-          {/* TODO: Add interactivity to filters or use Links */}
-          <Link href="/" className="filter-btn active">Todos</Link>
-          <Link href="/vida-rural" className="filter-btn">Vida Rural</Link>
-          <Link href="/turismo" className="filter-btn">Turismo</Link>
-          <Link href="/inversion" className="filter-btn">Inversión</Link>
-        </div>
+        <h2 className="section-title">{title}</h2>
+        {showFilters && (
+          <div className="filters">
+            {/* TODO: Add interactivity to filters or use Links */}
+            <Link href="/" className="filter-btn active">Todos</Link>
+            <Link href="/vida-rural" className="filter-btn">Vida Rural</Link>
+            <Link href="/turismo" className="filter-btn">Turismo</Link>
+            <Link href="/inversion" className="filter-btn">Inversión</Link>
+          </div>
+        )}
       </div>
 
       <div className="grid">

@@ -1,6 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 
 interface HeaderProps {
   theme?: 'light' | 'dark';
@@ -9,6 +10,8 @@ interface HeaderProps {
 export default function Header({ theme = 'light' }: HeaderProps) {
   const [scrolled, setScrolled] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const router = useRouter();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -17,6 +20,14 @@ export default function Header({ theme = 'light' }: HeaderProps) {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  const handleSearch = (e?: React.FormEvent) => {
+    if (e) e.preventDefault();
+    if (searchQuery.trim()) {
+      router.push(`/search?q=${encodeURIComponent(searchQuery)}`);
+      setIsMenuOpen(false); // Close mobile menu if open
+    }
+  };
 
   return (
     <header className={`header ${scrolled ? 'scrolled' : ''} ${theme === 'dark' ? 'header-dark' : ''}`}>
@@ -36,10 +47,18 @@ export default function Header({ theme = 'light' }: HeaderProps) {
         </nav>
 
         <div className="header-actions">
-          <div className="search-wrapper">
-            <input type="text" placeholder="Buscar..." className="search-input" />
-            <svg className="search-icon" style={{ width: '1rem', height: '1rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-          </div>
+          <form className="search-wrapper" onSubmit={handleSearch}>
+            <input
+              type="text"
+              placeholder="Buscar..."
+              className="search-input"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+            />
+            <button type="submit" className="search-button" aria-label="Buscar">
+              <svg className="search-icon" style={{ width: '1rem', height: '1rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            </button>
+          </form>
           <Link href="https://invierteencampo.netlify.app" target="_blank" className="btn btn-primary">
             Ver Parcelas
           </Link>
@@ -181,11 +200,22 @@ export default function Header({ theme = 'light' }: HeaderProps) {
           background: var(--surface-hover);
         }
 
-        .search-icon {
+        .search-button {
           position: absolute;
-          left: 0.8rem;
+          left: 0.5rem;
           top: 50%;
           transform: translateY(-50%);
+          background: none;
+          border: none;
+          padding: 0.3rem; 
+          cursor: pointer;
+          color: inherit;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+        }
+
+        .search-icon {
           width: 1rem;
           height: 1rem;
           opacity: 0.7;
@@ -221,3 +251,4 @@ export default function Header({ theme = 'light' }: HeaderProps) {
     </header>
   );
 }
+
