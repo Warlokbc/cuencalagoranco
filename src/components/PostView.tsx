@@ -123,6 +123,10 @@ export default function PostView({ postData }: { postData: PostData }) {
           max-width: 800px;
           margin-left: auto;
           margin-right: auto;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
         }
 
         @media (min-width: 768px) {
@@ -181,6 +185,10 @@ export default function PostView({ postData }: { postData: PostData }) {
           font-size: 1.1rem;
           line-height: 1.8;
           color: var(--text-primary);
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
         }
 
         .post-content h2 {
