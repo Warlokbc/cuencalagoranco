@@ -3,7 +3,6 @@ import path from 'path';
 import matter from 'gray-matter';
 import { remark } from 'remark';
 import html from 'remark-html';
-import externalLinks from 'remark-external-links';
 
 const postsDirectory = path.join(process.cwd(), 'src/content/posts');
 
@@ -67,11 +66,12 @@ export async function getPostData(slug: string): Promise<PostData> {
     const matterResult = matter(fileContents);
 
     const processedContent = await remark()
-        // @ts-ignore
-        .use(externalLinks, { target: '_blank', rel: ['noopener', 'noreferrer'] })
         .use(html)
         .process(matterResult.content);
-    const contentHtml = processedContent.toString();
+    let contentHtml = processedContent.toString();
+
+    // Manually force external links to open in new tab
+    contentHtml = contentHtml.replace(/<a href="(https?:\/\/[^"]+)"/g, '<a target="_blank" rel="noopener noreferrer" href="$1"');
 
     return {
         slug,
