@@ -9,21 +9,21 @@ youtubeId: 'Pxpbjsu9EtA'
 
 ¿Estás pensando en venir a la **Cuenca del Lago Ranco** y no tienes idea por dónde partir? Pasa mucho. Pero te digo algo: los mejores tesoros de acá no cuestan ni un peso. En esta guía, te llevo conmigo a recorrer **5 destinos totalmente gratis** que te van a volar la cabeza.
 
-Esta ruta está diseñada para que puedas disfrutar de la naturaleza, la historia y la tranquilidad que solo Ranco puede ofrecer. ¡Prepara tu mate y vamos a la aventura!
+Esta ruta está diseñada para que puedas disfrutar de la naturaleza, la historia y la tranquilidad que solo Ranco puede ofrecer. ¡[Prepara tu mate](https://mercadolibre.com/sec/1Ayvf7K) y vamos a la aventura!
 
 ## 1. Puerto Lapi: Donde Nace el Río Bueno
 
 La primera parada es **Puerto Lapi**, un rincón estratégico y de belleza escénica incomparable. Aquí es donde el majestuoso Lago Ranco da origen al **Río Bueno**.
 
-*   **¿Qué encontrarás?**: Una vista privilegiada del nacimiento del río, perfecta para los amantes de la fotografía y la pesca recreativa.
+*   **¿Qué encontrarás?**: Una vista privilegiada del nacimiento del río, perfecta para los amantes de la [fotografía](https://mercadolibre.com/sec/1pEh8WZ) y la pesca recreativa.
 *   **Ideal para**: Un picnic tranquilo. Hay zonas habilitadas entre pequeños bosques que ofrecen la sombra perfecta para descansar y disfrutar del sonido del agua.
-*   **Dato de Local**: Cuenta con una bajada de botes pública, así que si traes kayak o embarcación menor, este es tu punto de partida.
+*   **Dato de Local**: Cuenta con una bajada de botes pública, así que si traes [kayak](https://mercadolibre.com/sec/21t4vTC) o embarcación menor, este es tu punto de partida.
 
 ## 2. Bosque Quillín: Un Túnel Verde Milenario
 
 Siguiendo la ruta, nos adentramos en la **Reserva Natural Bosque Quillín**. Más que un bosque, es una experiencia inmersiva. 
 
-Imagina conducir o caminar atravesando un verdadero **túnel verde** formado por árboles nativos de más de **200 años de antigüedad**. Las copas se entrelazan sobre la carretera creando una atmósfera mágica, casi de cuento de hadas. Es uno de esos lugares donde sientes la energía ancestral de la selva valdiviana.
+Imagina [conducir](https://mercadolibre.com/sec/1Tjym3p) o [Caminar](https://mercadolibre.com/sec/1hE1gTw) atravesando un verdadero **túnel verde** formado por árboles nativos de más de **200 años de antigüedad**. Las copas se entrelazan sobre la carretera creando una atmósfera mágica, casi de cuento de hadas. Es uno de esos lugares donde sientes la energía ancestral de la selva valdiviana.
 
 ---
 
