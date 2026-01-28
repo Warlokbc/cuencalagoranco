@@ -3,7 +3,7 @@ title: 'Seguridad en la Región de los Ríos: ¿Mito o Realidad?'
 date: '2026-01-28'
 category: 'Inversión'
 excerpt: 'Olvídate de las noticias alarmistas. Te cuento desde mi experiencia personal cómo se vive realmente la seguridad en el sur de Chile y por qué la tranquilidad aquí es el nuevo lujo.'
-image: '/img/seguridad_sur.png'
+image: '/img/seguridad_ruta_5.png'
 ---
 
 Si hay algo que me preguntan todos los días en mis asesorías, incluso más que la plusvalía de un terreno, es: **"Stefano, ¿es realmente seguro el sur?"**.
