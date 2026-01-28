@@ -43,5 +43,4 @@ La Región de los Ríos sigue siendo un oasis dentro de Chile. La calidad de vid
 
 Si estás buscando un lugar donde la principal preocupación sea qué vas a tirar a la [parrilla](https://mercadolibre.com/sec/1QXLyYk) el fin de semana, este es tu lugar.
 
----
-*Este artículo está en borrador. Pronto agregaré algunos datos útiles para tu seguridad en el hogar.*
+
