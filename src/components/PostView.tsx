@@ -213,6 +213,20 @@ export default function PostView({ postData }: { postData: PostData }) {
           padding-left: 2rem;
           margin-bottom: 1.5rem;
         }
+
+        .post-content a {
+          color: var(--secondary);
+          text-decoration: underline;
+          text-decoration-thickness: 2px;
+          text-underline-offset: 2px;
+          font-weight: 700;
+          transition: all 0.2s ease;
+        }
+
+        .post-content a:hover {
+          color: var(--primary);
+          text-decoration-color: var(--primary);
+        }
         
         .post-content li {
           margin-bottom: 0.5rem;
