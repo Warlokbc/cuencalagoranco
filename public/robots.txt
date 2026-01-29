@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Allow: /posts/*
+Sitemap: https://cuencalagoranco.cl/sitemap.xml
