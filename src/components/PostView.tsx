@@ -303,6 +303,15 @@ export default function PostView({ postData }: { postData: PostData }) {
         .social-link:hover {
            text-decoration: underline;
         }
+
+        .post-content iframe {
+          width: 100%;
+          min-height: 300px;
+          display: block;
+          margin: 1.5rem 0;
+          border-radius: 1rem;
+          background-color: var(--surface); /* Placeholder color while loading */
+        }
       `}</style>
     </main>
   );
