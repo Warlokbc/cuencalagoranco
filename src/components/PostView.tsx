@@ -61,18 +61,21 @@ export default function PostView({ postData }: { postData: PostData }) {
         </div>
 
         <div className="container content-layout">
-          {/* Main Content */}
-          <div
-            className="post-content fade-in"
-            style={{ animationDelay: '0.4s' }}
-            dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
-          />
+          {/* Main Column (Content + Disclaimer) */}
+          <div className="main-column">
+            {/* Main Content */}
+            <div
+              className="post-content fade-in"
+              style={{ animationDelay: '0.4s' }}
+              dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
+            />
 
-          {/* Disclaimer (Automatizado para todos los posts) */}
-          <div className="disclaimer-box fade-in" style={{ animationDelay: '0.5s', marginTop: '3rem', padding: '1.5rem', backgroundColor: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '1rem' }}>
-            <p style={{ margin: 0, fontSize: '0.95rem', color: 'var(--text-secondary)', fontStyle: 'italic', lineHeight: '1.6' }}>
-              "Este contenido es informativo y muestra las características de proyecto o sectores urbanos y rurales. Mi labor es de intermediación y asesoría inmobiliaria, no financiera."
-            </p>
+            {/* Disclaimer (Automatizado para todos los posts) */}
+            <div className="disclaimer-box fade-in" style={{ animationDelay: '0.5s', marginTop: '3rem', padding: '1.5rem', backgroundColor: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '1rem' }}>
+              <p style={{ margin: 0, fontSize: '0.95rem', color: 'var(--text-secondary)', fontStyle: 'italic', lineHeight: '1.6' }}>
+                "Este contenido es informativo y muestra las características de proyecto o sectores urbanos y rurales. Mi labor es de intermediación y asesoría inmobiliaria, no financiera."
+              </p>
+            </div>
           </div>
 
           {/* Sidebar */}
