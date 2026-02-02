@@ -87,10 +87,10 @@ export default function PostView({ postData }: { postData: PostData }) {
 
             <div className="social-box">
               <h4>Sígueme en redes</h4>
-              <div className="social-links" style={{ display: 'flex', gap: '1rem' }}>
-                <Link href="https://instagram.com/invierteencampo/" target="_blank" className="social-link" style={{ fontSize: '1.5rem' }}><FaInstagram /></Link>
-                <Link href="https://tiktok.com/@invierteencampo" target="_blank" className="social-link" style={{ fontSize: '1.5rem' }}><FaTiktok /></Link>
-                <Link href="https://youtube.com/@StefanoAgostinelli" target="_blank" className="social-link" style={{ fontSize: '1.5rem' }}><FaYoutube /></Link>
+              <div className="social-links">
+                <Link href="https://instagram.com/invierteencampo/" target="_blank" className="social-link"><FaInstagram /></Link>
+                <Link href="https://tiktok.com/@invierteencampo" target="_blank" className="social-link"><FaTiktok /></Link>
+                <Link href="https://youtube.com/@StefanoAgostinelli" target="_blank" className="social-link"><FaYoutube /></Link>
               </div>
             </div>
           </aside>
@@ -295,22 +295,28 @@ export default function PostView({ postData }: { postData: PostData }) {
         }
         
         .social-box h4 {
-           margin-bottom: 1rem;
+           margin-bottom: 1.5rem;
+           font-size: 1.2rem;
         }
         
         .social-links {
            display: flex;
-           flex-direction: column;
-           gap: 0.5rem;
+           flex-direction: row;
+           gap: 1.5rem;
         }
         
         .social-link {
            color: var(--primary);
-           font-weight: 500;
+           font-size: 2.5rem;
+           transition: transform 0.2s ease, color 0.2s ease;
+           display: flex;
+           align-items: center;
+           justify-content: center;
         }
         
         .social-link:hover {
-           text-decoration: underline;
+           color: var(--secondary);
+           transform: scale(1.1);
         }
 
         .post-content iframe {
