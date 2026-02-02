@@ -68,6 +68,13 @@ export default function PostView({ postData }: { postData: PostData }) {
             dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
           />
 
+          {/* Disclaimer (Automatizado para todos los posts) */}
+          <div className="disclaimer-box fade-in" style={{ animationDelay: '0.5s', marginTop: '3rem', padding: '1.5rem', backgroundColor: 'var(--surface)', border: '1px solid var(--border)', borderRadius: '1rem' }}>
+            <p style={{ margin: 0, fontSize: '0.95rem', color: 'var(--text-secondary)', fontStyle: 'italic', lineHeight: '1.6' }}>
+              "Este contenido es informativo y muestra las características de proyecto o sectores urbanos y rurales. Mi labor es de intermediación y asesoría inmobiliaria, no financiera."
+            </p>
+          </div>
+
           {/* Sidebar */}
           <aside className="sidebar fade-in" style={{ animationDelay: '0.6s' }}>
             <div className="cta-box">
@@ -89,6 +96,7 @@ export default function PostView({ postData }: { postData: PostData }) {
           </aside>
         </div>
         {/* Bottom Video */}
+        {/* Bottom Video - Temporarily disabled to prevent duplication
         {postData.youtubeIdBottom && (
           <div className="container" style={{ marginTop: '3rem', marginBottom: '3rem' }}>
             <h3 style={{ fontSize: '1.5rem', fontWeight: 700, marginBottom: '1.5rem', textAlign: 'center' }}>Mira el video resumen</h3>
@@ -103,6 +111,7 @@ export default function PostView({ postData }: { postData: PostData }) {
             </div>
           </div>
         )}
+        */}
 
       </article>
 

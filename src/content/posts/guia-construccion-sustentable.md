@@ -4,7 +4,7 @@ date: '2026-01-20'
 category: 'Vida Rural'
 excerpt: 'Descubre por qué la fusión de barro y madera es la técnica definitiva para el confort térmico y la salud en la Cuenca del Lago Ranco.'
 image: '/img/DSC08669-HDR.webp'
-youtubeIdBottom: 'sj1kJRl5gxY'
+
 ---
 
 Decidir construir en la **Cuenca del Lago Ranco** es tomar la decisión de convivir con la naturaleza en su estado más puro. Lluvia, sol, frío y calor; el clima aquí es dinámico y la casa debe ser un refugio capaz de "respirar" y adaptarse, no una caja hermética que luche contra el entorno.
@@ -53,6 +53,4 @@ Para profundizar más en estos conceptos, te invito a ver este excelente anális
 <div class="video-wrapper">
   <iframe width="100%" height="400" src="https://www.youtube.com/embed/sj1kJRl5gxY" title="Construcción Sustentable en Chile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<p style="text-align: center; margin-top: -1rem; font-size: 0.9rem; color: var(--text-secondary);">
-  <em>¿No carga el video? <a href="https://youtu.be/sj1kJRl5gxY" target="_blank" style="color: var(--primary); text-decoration: underline;">Ver directamente en YouTube</a></em>
-</p>
+
